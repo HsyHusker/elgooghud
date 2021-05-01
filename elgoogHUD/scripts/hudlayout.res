@@ -483,7 +483,7 @@
 		"IconScale"		"0.35"
 		"LineHeight"	"12" // 3 KF
 		"LineSpacing"	"2" // 4 KF
-		"CornerRadius"	"3" // 2 KF
+		"CornerRadius"	"5" // 2 KF
 		"RightJustify"	"1"	// If 1, draw notices from the right
 		
 		"TextFont"		"G_FontKillfeed" // 5 KF
@@ -1510,4 +1510,5 @@
 		"alpha"					"100"
 	}
 }
+
 

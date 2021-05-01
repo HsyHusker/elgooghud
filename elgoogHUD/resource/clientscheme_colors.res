@@ -24,13 +24,13 @@ Scheme
 		"G_LightGrey"			"180 180 180 255" // Metal color in build/destroy menu
 		"G_HealthBarBg"			"0 0 0 220" // Target health bg
 		"G_CurrencyBad"			"255 60 60 255" // Red currency in MvM
-		"G_TransparentMenuBG"	"0 0 0 128" // Transparent menu color
-		"G_PanelBg"				"40 40 40 199" // Panel color
-		"G_OpaquePanelBg"		"40 40 40 255" // Opaque Panel color
+		"G_TransparentMenuBG"	"255 255 255 128" // Transparent menu color
+		"G_PanelBg"				"255 255 255 199" // Panel color
+		"G_OpaquePanelBg"		"255 255 255 255" // Opaque Panel color
 		"G_Warning"				"219 68 55 255" // Warning color
 		"G_HealthValue"			"255 255 255 255" // Health value color
 		"G_Overheal"			"15 157 88 255" // Overhealed health value color
-		"G_LowHealthValue"		"255 255 255 255" // Low health value color
+		"G_LowHealthValue"		"255 0 0 255" // Low health value color
 		"G_AmmoClipValue"		"255 255 255 255" // Ammo in clip value color
 		"G_AmmoReserveValue"	"255 255 255 255" // Ammo in reserve value color
 		"G_LowAmmo"				"219 68 55 255" // Low ammo color
@@ -60,36 +60,36 @@ Scheme
 		"G_TeamButtonRed"			"189 58 58 100"
 		"G_TeamButtonBlueArmed"		"111 142 160 255"
 		"G_TeamButtonRedArmed"		"209 78 78 255"		
-		"G_Footer"					"0 0 0 255" // Menu footer color
+		"G_Footer"					"255 255 255 255" // Menu footer color
 		"G_DimmFooter"				"28 23 19 200" // Dimm Menu footer color
-		"G_FooterText"				"255 255 255 255" // Footer text color
-		"G_DimmFooterText"			"255 255 255 120" // Dimm Footer text color
-		"G_OuterBorder"				"255 255 255 255" // Outer border color
+		"G_FooterText"				"0 0 0 255" // Footer text color
+		"G_DimmFooterText"			"0 0 0 120" // Dimm Footer text color
+		"G_OuterBorder"				"119 168 251 255" // Outer border color
 		"G_InnerBorder"				"0 0 0 0" // Inner border color
 		"G_KillfeedBlue"			"66 133 244 255" // Killfeed blue text
 		"G_KillfeedRed"				"219 68 55 255" // Killfeed red text
 		"G_KillfeedIcon"			"255 255 255 255" // Killfeed icon color
 		"G_CustomHealthValue"		"120 120 120 255"
 		"G_MainMenuOverlay"			"0 0 0 0" // Main Menu overlay color
-		"G_MainMenuPanel"			"0 0 0 255" // Main Menu panel color
-		"G_MainMenuButton"			"0 0 0 255" // Main Menu button color
-		"G_MainMenuButtonHover"		"66 133 244 255" // Main Menu hovered button color
-		"G_MainMenuButtonFg"		"255 255 255 255" // Main Menu button text color
-		"G_MainMenuButtonHoverFg"	"255 255 255 255" // Main Menu hovered button text color
+		"G_MainMenuPanel"			"190 195 208 255" // Main Menu panel color
+		"G_MainMenuButton"			"255 255 255 255" // Main Menu button color
+		"G_MainMenuButtonHover"		"119 168 251 255" // Main Menu hovered button color
+		"G_MainMenuButtonFg"		"10 102 255 255" // Main Menu button text color
+		"G_MainMenuButtonHoverFg"	"10 102 255 255" // Main Menu hovered button text color
 		"G_MainMenuShader" 			"0 0 0 0" // Main Menu shader color
-		"G_BackpackItemBg"			"0 0 0 219" // Backpack item bg color
-		"G_LoadoutItemBg"			"10 9 8 255" // Loadout item bg color
-		"G_MenuBg"					"10 9 8 255" // Menu bg color
-		"G_MenuText"				"255 255 255 255" // Menu text color
-		"G_InputText"				"0 0 0 240" // Input text color
-		"G_DimmInputText"			"0 0 0 100" // Dimm Input text color
-		"G_DimmMenuText"			"255 255 255 120" // Dimm Menu text color
-		"G_ItemDescriptionPanelBg"	"11 10 9 255" // Item description panel bg
-		"G_ButtonBg"				"66 133 244 255" // Button bg color
-		"G_ButtonText"				"255 255 255 255" // Button text color
-		"G_ButtonHoverBg"			"219 68 55 255" // Button hover bg color
+		"G_BackpackItemBg"			"255 255 255 219" // Backpack item bg color
+		"G_LoadoutItemBg"			"66 133 244 255" // Loadout item bg color
+		"G_MenuBg"					"255 255 255 255" // Menu bg color
+		"G_MenuText"				"0 0 0 255" // Menu text color
+		"G_InputText"				"255 255 255 240" // Input text color
+		"G_DimmInputText"			"255 255 255 100" // Dimm Input text color
+		"G_DimmMenuText"			"0 0 0 120" // Dimm Menu text color
+		"G_ItemDescriptionPanelBg"	"119 168 251 255" // Item description panel bg
+		"G_ButtonBg"				"119 168 251 255" // Button bg color
+		"G_ButtonText"				"0 74 197 255" // Button text color
+		"G_ButtonHoverBg"			"0 96 255 255" // Button hover bg color
 		"G_ButtonHoverText"			"255 255 255 255" // Button hover text color
-		"G_ButtonSelectedBg"		"15 157 88 255" // Button selected bg color
+		"G_ButtonSelectedBg"		"119 168 251 255" // Button selected bg color
 		"G_ButtonSelectedText"		"255 255 255 255" // Button selected text color
 		"G_MiniButtonBg"			"50 50 50 255" // Mini button bg color
 		"G_MiniButtonHoverBg"		"10 10 10 255" // Mini button hover bg color
@@ -481,10 +481,10 @@ Scheme
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 255 255 32"
 
 		Slider.NobColor				"66 133 244 255" // Highlight color
-		Slider.TextColor			"255 255 255 255" // Menu text color
-		Slider.TrackColor			"255 255 255 255" // Menu text color
-		Slider.DisabledTextColor1	"255 255 255 120" // Dimm Menu text color
-		Slider.DisabledTextColor2	"255 255 255 120" // Dimm Menu text color
+		Slider.TextColor			"0 0 0 255" // Menu text color
+		Slider.TrackColor			"0 0 0 255" // Menu text color
+		Slider.DisabledTextColor1	"0 0 0 120" // Dimm Menu text color
+		Slider.DisabledTextColor2	"0 0 0 120" // Dimm Menu text color
 
 		TextEntry.TextColor			"Gray"
 		TextEntry.BgColor			"Blank"
