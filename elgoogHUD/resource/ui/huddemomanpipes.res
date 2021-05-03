@@ -20,13 +20,13 @@
 		"fieldName"				"ChargeLabel"
 		"xpos"					"-9999"	// 2_ CDCM
 		"xpos_minmode"			"-9999"	// 3_ CDCM
-		"ypos"					"r32"	// 3 CDCM
-		"ypos_minmode"			"r132"	// 4 CDCM
+		"ypos"					"c+15"	// 3 CDCM
+		"ypos_minmode"			"c+15"	// 4 CDCM
 		"zpos"					"10"
-		"wide"					"170"	// 5 CDCM
-		"wide_minmode"			"170"	// 6 CDCM
-		"tall"					"6"		// 7 CDCM	
-		"tall_minmode"			"6"		// 8 CDCM
+		"wide"					"30"	// 5 CDCM
+		"wide_minmode"			"30"	// 6 CDCM
+		"tall"					"4"		// 7 CDCM	
+		"tall_minmode"			"4"		// 8 CDCM
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
@@ -46,15 +46,15 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ChargeMeter"
 		"font"					"Default"
-		"xpos"					"c100"	// 1 CDCM
-		"xpos_minmode"			"c80"	// 2 CDCM
-		"ypos"					"r32"	// 3 CDCM
-		"ypos_minmode"			"r132"	// 4 CDCM
+		"xpos"					"c-15"	// 1 CDCM
+		"xpos_minmode"			"c-15"	// 2 CDCM
+		"ypos"					"c+15"	// 3 CDCM
+		"ypos_minmode"			"c+15"	// 4 CDCM
 		"zpos"					"2"
-		"wide"					"180"	// 5 CDCM
-		"wide_minmode"			"180"	// 6 CDCM
-		"tall"					"6"		// 7 CDCM		
-		"tall_minmode"			"6"		// 8 CDCM		
+		"wide"					"30"	// 5 CDCM
+		"wide_minmode"			"30"	// 6 CDCM
+		"tall"					"4"		// 7 CDCM		
+		"tall_minmode"			"4"		// 8 CDCM		
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -63,8 +63,8 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"paintborder"			"1"
-		"border"				"G_MeterBorder"	// 9 CDCM
-		"paintbackground"		"1"	// 10 CDCM
+		"border"				"G_ChargeBorder"	// 9 CDCM
+		"paintbackground"		"0"	// 10 CDCM
 		"bgcolor_override"		"G_ItemMeterBg"
 	}
 		
@@ -271,6 +271,16 @@
 		}			
 	}				
 }
+
+
+
+
+
+
+
+
+
+
 
 
 

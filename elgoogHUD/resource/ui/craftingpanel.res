@@ -74,7 +74,7 @@
 					"zpos"			"0"
 					"wide"			"54"
 					"tall"			"48"
-					"visible"		"1" // RBSS
+					"visible"		"0" // RBSS
 					"enabled"		"1"
 					"scaleImage"			"1"
 					"image"					"replay/thumbnails/backpackslot"
@@ -518,3 +518,4 @@
 		"bgcolor_override"	"G_MenuShader"
 	}
 }
+

@@ -5,23 +5,23 @@ Scheme
 	Colors
 	{
 	
-		"G_ActiveWindow"			"255 255 255 255" // Active window bg color
-		"G_InctiveWindow"			"40 34 30 245" // Inactive window bg color
-		"G_TitleBg"					"119 168 251 255" // Title bg color
-		"G_TitleText"				"10 102 255 255" // Title text color
-		"G_Highlight"				"119 168 251 255" // Highlight color
-		"G_ConsoleBg"				"0 0 0 255" // Console bg color
-		"G_ListBg"					"255 255 255 255" // List bg color
+		"G_ActiveWindow"			"47 69 90 255" // Active window bg color
+		"G_InctiveWindow"			"18 18 18 255" // Inactive window bg color
+		"G_TitleBg"					"114 187 255 255" // Title bg color
+		"G_TitleText"				"255 255 255 255" // Title text color
+		"G_Highlight"				"114 187 255 255" // Highlight color
+		"G_ConsoleBg"				"18 18 18 255" // Console bg color
+		"G_ListBg"					"18 18 18 255" // List bg color
 		"G_Border"					"0 0 0 50" // Border color
-		"G_Text"					"0 0 0 255" // Text color
-		"G_HighlightText"			"10 102 255 255" // Highlight text color
-		"G_SelectedText"			"0 0 0 255" // Selected text color
-		"G_DisabledText"			"220 206 199 150" // Disabled text color
-		"G_ButtonBg"				"119 168 251 255" // Button bg color
-		"G_ButtonText"				"10 102 255 255" // Button text color
-		"G_ButtonHoverBg"			"0 74 197 255" // Button hover bg color
+		"G_Text"					"255 255 255 255" // Text color
+		"G_HighlightText"			"255 255 255 255" // Highlight text color
+		"G_SelectedText"			"255 255 255 255" // Selected text color
+		"G_DisabledText"			"114 187 255 255" // Disabled text color
+		"G_ButtonBg"				"114 187 255 92" // Button bg color
+		"G_ButtonText"				"114 187 255 255" // Button text color
+		"G_ButtonHoverBg"			"114 187 255 255" // Button hover bg color
 		"G_ButtonHoverText"			"255 255 255 255" // Button hover text color
-		"G_InputBg"					"119 168 251 255" // Input bg color
+		"G_InputBg"					"18 18 18 255" // Input bg color
 		"G_Light"					"255 255 255 50"
 		"G_Dark"					"0 0 0 50"
 	
@@ -44,7 +44,7 @@ Scheme
 	    "TFMediumBrown"				"69 64 58 255"
 
 	    "QuickListBGDeselected"		"0 0 0 0"
-	    "QuickListBGSelected"       "119 168 251 255" // Highlight color
+	    "QuickListBGSelected"       "114 187 255 255" // Highlight color
 	    
 	    "Blank"				"0 0 0 0"
 	    

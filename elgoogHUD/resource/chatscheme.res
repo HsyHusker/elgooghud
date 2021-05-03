@@ -340,40 +340,40 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans" // Chat font
-				"tall"			"Product Sans" // Chat fontsize
+				"name"			"Fluid Sans" // Chat font
+				"tall"			"Fluid Sans" // Chat fontsize
 				"weight"		"400" // Chat fontweight
 				"dropshadow"	"1" // Chat shadow
 				"antialias"		"1" // Chat antialias
 			}
 			"2"
 			{
-				"name"			"Product Sans" // Chat font
-				"tall"			"Product Sans" // Chat fontsize
+				"name"			"Fluid Sans" // Chat font
+				"tall"			"Fluid Sans" // Chat fontsize
 				"weight"		"400" // Chat fontweight
 				"dropshadow"	"1" // Chat shadow
 				"antialias"		"1" // Chat antialias
 			}
 			"3"
 			{
-				"name"			"Product Sans" // Chat font
-				"tall"			"Product Sans" // Chat fontsize
+				"name"			"Fluid Sans" // Chat font
+				"tall"			"Fluid Sans" // Chat fontsize
 				"weight"		"400" // Chat fontweight
 				"dropshadow"	"1" // Chat shadow
 				"antialias"		"1" // Chat antialias
 			}
 			"4"
 			{
-				"name"			"Product Sans" // Chat font
-				"tall"			"Product Sans" // Chat fontsize
+				"name"			"Fluid Sans" // Chat font
+				"tall"			"Fluid Sans" // Chat fontsize
 				"weight"		"400" // Chat fontweight
 				"dropshadow"	"1" // Chat shadow
 				"antialias"		"1" // Chat antialias
 			}
 			"5"
 			{
-				"name"			"Product Sans" // Chat font
-				"tall"			"Product Sans" // Chat fontsize
+				"name"			"Fluid Sans" // Chat font
+				"tall"			"Fluid Sans" // Chat fontsize
 				"weight"		"400" // Chat fontweight
 				"dropshadow"	"1" // Chat shadow
 				"antialias"		"1" // Chat antialias

@@ -103,7 +103,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"HealthBonusPosAdj"			"30" // Grow size
-		"HealthDeathWarning"		"0.49" // Warning percent
+		"HealthDeathWarning"		"0.60" // Warning percent
 		"HealthDeathWarningColor"	"G_Warning"
 	}
 	
